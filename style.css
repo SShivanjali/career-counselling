@@ -98,7 +98,7 @@ body {
     height: 100vh;
     font-size: 22px;
     color: #e4e4e4;
-    background: url('C:\Users\Shivanjali\Desktop\login page\backgroundimg.jpg') no-repeat;
+    background: url('../C:/Users/Shivanjali/Desktop/login page/backgroundimg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     filter: blur(10px);
@@ -111,7 +111,7 @@ body {
     transform: translate(-50%, -50%);
     width: 80%;
     height: 460px;
-    background: url('C:\Users\Shivanjali\Desktop\login page\backgroundimg.jpg.jpg') no-repeat;
+    background: url('../C:/Users/Shivanjali/Desktop/login page/backgroundimg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
